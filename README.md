@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=F728C9&random=false&width=435&lines=Welcome!+to+my+GitHub+space+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F728C9&random=false&width=439&lines=Welcome!+to+my+GitHub+Space+)](https://git.io/typing-svg)
+
 
 - 👋 Hi, I’m @MailChansineee
 - 👀 I’m interested in data science and data analyst
