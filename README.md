@@ -4,7 +4,7 @@ I'm Chansinee Mueangnu. You can call me Mail!.
 
 - 😄 Pronouns: She/Her
 - 🌱 Currently, I'm studying in Control Systems and Instrumentation Engineering at King MongKut's University of Technology Thonburi.
-- 👀 I’m interested in data science.
+- 👀 I’m interested in Data Science.
 - 🔭 now... I'm working on stock price manipulation detection project that is apart of subject in my major.
 - ⚡ Fun fact ... I love to learning something new! .. but I can learning something slowly. 😢
 - 🌟 My Goals! ... To be a Data Scientist or Data Analyst!
